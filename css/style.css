@@ -9098,6 +9098,9 @@ textarea.form-control {
       .aside-stretch-right:after {
         background: transparent;
         display: none; } }
+.testimonials-subheading{
+  color: #fff;
+}
 
 .testimony-section {
   position: relative; }
