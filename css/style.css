@@ -218,7 +218,7 @@ button,
 [type="button"],
 [type="reset"],
 [type="submit"] {
-  -webkit-appearance: button; }
+-webkit-appearance: button; }
 
 button::-moz-focus-inner,
 [type="button"]::-moz-focus-inner,
@@ -8990,6 +8990,12 @@ textarea.form-control {
         .footer .aside-stretch-right:after {
           background: transparent;
           display: none; } }
+.ftco-footer-links li{
+  list-style: none;
+  font-size: 14px;
+  margin: 0 15px 0 0;
+  display: inline-block;
+}
 
 .ftco-footer-social li {
   list-style: none;
