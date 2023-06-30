@@ -1,4 +1,4 @@
-$('a').click(function() {
-    $('a').preventDefault();
+$('#home_link').click(function() {
+    $('#home_link').preventDefault();
     doSomething();
   });
